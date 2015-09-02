@@ -3,6 +3,8 @@ IR-HEX
 
 Infinite Recursion returns! Back and ready for Generation 6, IR-HEX has a purpose distinctly different from the IR-GTS of old. Gone are the easy-to-spoof Global Trade Station servers, but there's still binary Pokemon files to analyze, and infinity won't recurse itself!
 
+![version 1](http://i.imgur.com/yvsbhFR.png)
+
 ## Functions
 IR-HEX is an analysis tool for .pk6 files, the format that holds individual Pokemon data in gen 6, for programs like PKHeX. IR-HEX has a number of features not present in PKHeX, such as
 * Infinite recursion!
