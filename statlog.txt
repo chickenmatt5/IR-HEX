@@ -1,0 +1,22 @@
+"Mew" (2015-09-02 11:19:41 from Pokemon\MEW.pk6)
+    Lv 50  Mew (Genderless)
+    Nature: Hasty,  Ability: Synchronize
+    Holding: Nothing, Hidden Power: Ghost-type
+
+    Game of origin: Leaf Green, PID: 3673363011
+    Country: United States, Region: New York
+    3DS Region: Americas, OT Language:  English
+    OT:  MYSTRY (M), ID: 06930, SecID: 00000
+    Happiness: 100, Affection:   0
+
+    Current Trainer:  CMFIVE (M)
+    Happiness: 100, Affection:   0
+
+    Attacks: Metronome    Transform   
+             AncientPower Psychic     
+
+    IVs: HP  30, Atk  30, Def  31, SpA  31, SpD  15, Spe  30
+    EVs: HP   4, Atk  84, Def   2, SpA  18, SpD   0, Spe   4, Total 112
+
+================================================================================
+
